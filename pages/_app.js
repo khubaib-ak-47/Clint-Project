@@ -6,9 +6,7 @@ import { Footer, Navbar } from "../components/landing";
 function MyApp({ Component, pageProps }) {
   return (
     <ThemeProvider>
-      {/* <Navbar /> */}
       <Component {...pageProps} />
-      {/* <Footer /> */}
     </ThemeProvider>
   )
 }
