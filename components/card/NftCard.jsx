@@ -16,7 +16,7 @@ const NftCard = () => {
   };
   return (
     <div className='bg-black pt-40'>
-    <h2 className='text-white font-Play text-[48px] font-bold p-4'>Trending Drops</h2>
+    <h2 className='text-white font-Play text-[38px] font-bold p-4'>Trending Drops</h2>
         <div className='relative flex items-center group'>
         <ChevronLeftIcon
           onClick={slideLeft}
