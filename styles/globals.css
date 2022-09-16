@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Play:wght@400&family=RocknRoll+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+    li{
+      @apply p-4  text-[#8F98AA] font-Playfair 	text-[24px]
+    }
+
+    
+}
